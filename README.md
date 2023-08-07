@@ -60,6 +60,21 @@ Take a Look @ Task.ify: https://taskify-frontendhost-2277661894f3.herokuapp.com/
 ### Built With
 
 [![npm](https://img.shields.io/npm/v/task.ifybackend.svg)](https://www.npmjs.com/package/task.ifybackend)
+![Express.js](https://img.shields.io/npm/v/express.svg?label=Express.js)
+![TypeScript](https://img.shields.io/npm/v/typescript.svg?label=TypeScript)
+![PostgreSQL](https://img.shields.io/npm/v/pg.svg?label=PostgreSQL)
+![Sequelize](https://img.shields.io/npm/v/sequelize.svg?label=Sequelize)
+![Jest](https://img.shields.io/npm/v/jest.svg?label=Jest)
+![supertest](https://img.shields.io/npm/v/supertest.svg?label=supertest)
+![ts-jest](https://img.shields.io/npm/v/ts-jest.svg?label=ts-jest)
+![sequelize-mock](https://img.shields.io/npm/v/sequelize-mock.svg?label=sequelize-mock)
+![jest-mock-axios](https://img.shields.io/npm/v/jest-mock-axios.svg?label=jest-mock-axios)
+![Axios](https://img.shields.io/npm/v/axios.svg?label=Axios)
+![nodemon](https://img.shields.io/npm/v/nodemon.svg?label=nodemon)
+![dotenv](https://img.shields.io/npm/v/dotenv.svg?label=dotenv)
+![cors](https://img.shields.io/npm/v/cors.svg?label=cors)
+![SQLite](https://img.shields.io/npm/v/sqlite3.svg?label=SQLite)
+![Redis](https://img.shields.io/badge/Redis-latest-red)
 
 <!-- GETTING STARTED -->
 ## Getting Started
