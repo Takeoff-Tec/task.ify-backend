@@ -116,7 +116,7 @@ To get a local copy up and running follow these simple example steps.
 
 <div align="center" style="margin-top: 30px;">
   <a href="https://github.com/Takeoff-Tec/task.ify-backend">
-    <img src="https://i.imgur.com/xv7Y678.png" alt="Spotify OAuth Screenshot" width="300" height="400">
+    <img src="https://i.imgur.com/xv7Y678.png" alt="Spotify OAuth Screenshot" width="400" height="500">
   </a>
 </div>
 
