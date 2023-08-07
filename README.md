@@ -120,7 +120,7 @@ To get a local copy up and running follow these simple example steps.
   </a>
 </div>
 
-<p style="margin-top: 30px;"><strong>Spotify OAuth and Redis Implementation<strong></p>
+<p style="margin-top: 30px;">Spotify OAuth and Redis Implementation</p>
 <ul style="text-align:left;">
     <li><strong>Spotify OAuth:</strong> Leveraged to authenticate users, this integration gave us direct access to users' Spotify profiles. This allowed us to craft a personalized experience based on users' musical preferences and listening histories.</li>
     <li><strong>Redis Integration:</strong> Incorporated as our choice of in-memory data structure store, Redis was pivotal in caching user session data. This ensured rapid application interactions, drastically reducing latency during recurring data access operations.</li>
@@ -132,7 +132,7 @@ To get a local copy up and running follow these simple example steps.
   </a>
 </div>
 
-<p style="margin-top: 30px;"><strong>Sequilize Implementation<strong></p>
+<p style="margin-top: 30px;">Sequilize Implementation</p>
 <ul style="text-align:left;">
     <li><strong>Object-Relational Mapping (ORM):</strong> Tables were effortlessly defined as objects for each model, enabling a clear representation of our database structure.</li>
     <li><strong>TypeScript Compatibility:</strong> Seamless integration with TypeScript ensured that our models were strongly typed, enhancing code reliability and predictability.</li>
@@ -145,7 +145,7 @@ To get a local copy up and running follow these simple example steps.
     <img src="https://i.imgur.com/J2SpgQK.png" alt="Screenshot of playlistRoute code displaying Spotify Playlist Creation with Tracks" width="400" height="500">
 </div>
 
-<p style="margin-top: 30px;"><strong>Playlist and Track Creation Process<strong></p>
+<p style="margin-top: 30px;">Playlist and Track Creation Process</p>
 <ul style="text-align:left;">
     <li><strong>GPT API Response</strong>: The initial response from the GPT API provides crucial information, which includes a suggested playlist name and an array of track details.</li>
     <li><strong>Extraction Process</strong>: From this GPT API response, we extract the recommended playlist name and the associated array of tracks.</li>
