@@ -141,8 +141,8 @@ To get a local copy up and running follow these simple example steps.
 </ul>
 
 <div align="center" style="margin-top: 30px;">
-    <img src="https://i.imgur.com/xFT0mhW.png" alt="Screenshot of playlistRoute code displaying Spotify Playlist Creation" width="400" height="500" style="margin-right:20px;">
-    <img src="https://i.imgur.com/J2SpgQK.png" alt="Screenshot of playlistRoute code displaying Spotify Playlist Creation with Tracks" width="600" height="500">
+    <img src="https://i.imgur.com/xFT0mhW.png" alt="Screenshot of playlistRoute code displaying Spotify Playlist Creation" width="450" height="500" style="margin-right:20px;">
+    <img src="https://i.imgur.com/J2SpgQK.png" alt="Screenshot of playlistRoute code displaying Spotify Playlist Creation with Tracks" width="550" height="500">
 </div>
 
 <p style="margin-top: 30px;">Playlist and Track Creation Process</p>
